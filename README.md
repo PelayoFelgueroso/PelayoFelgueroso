@@ -2,16 +2,16 @@
 
 ###
 
-<p align="left">My name is Pelayo, and I'm a Frontend Engineer from Spain passionate about building modern, scalable web applications.</p>
+<p align="left">My name is Pelayo, and I'm a Fullstack Engineer from Spain passionate about building modern, scalable web applications.</p>
 
 ###
 
-<h2 align="left">🚀 Frontend Engineer | React & Next.js</h2>
+<h2 align="left">🚀 Fullstack Engineer | React & Next.js</h2>
 
 ###
 
 <p align="left">
-I specialize in building production-ready applications with React, Next.js, and TypeScript. I enjoy creating scalable user interfaces, design systems, and high-quality developer experiences while collaborating closely with designers and product teams. I'm also passionate about AI-assisted development and modern web technologies.
+I specialize in building production-ready applications with React, Next.js, Nodejs and TypeScript. I enjoy creating scalable user interfaces, design systems, and high-quality developer experiences while collaborating closely with designers and product teams. I'm also passionate about AI-assisted development and modern web technologies.
 </p>
 
 ###
