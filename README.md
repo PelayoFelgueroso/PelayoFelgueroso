@@ -20,9 +20,6 @@ Currently working at DXC Technology building internal products and contributing 
 ### Upsend.dev
 Email Delivery & Analytics Platform built with React, TypeScript and Node.js.
  
-### MCP Design System Generator
-Experimental tooling that transforms Figma designs into implementations aligned with a Design System.
- 
 ## Tech Stack
  
 React · TypeScript · Next.js · Node.js · Storybook · Turborepo · TanStack Query · Zustand
